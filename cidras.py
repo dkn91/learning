@@ -1,5 +1,5 @@
 
-'''This module accepts AS Number from user and returns
+''' This module accepts AS Number from user and returns
 the Company name that bought the AS and total population of that city.'''
 import string
 import urllib
