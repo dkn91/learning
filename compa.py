@@ -109,3 +109,5 @@ class compare_module(object):
         f2.write(str(self.Aspath_change))
         f1.close()
         f2.close()
+
+'''this is a test'''
