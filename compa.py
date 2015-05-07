@@ -110,4 +110,3 @@ class compare_module(object):
         f1.close()
         f2.close()
 
-'''this is a test'''
